@@ -1,4 +1,4 @@
-# ML-RDFIA
+# Deep learning architectures
 
 This repository contains code, notebooks, and resources related to the "ML-RDFIA" project.
 
